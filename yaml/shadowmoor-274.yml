@@ -1,0 +1,114 @@
+---
+object: card
+id: 513adae2-6436-4284-9f23-87ef627e81b7
+oracle_id: 0ee0b090-3f1e-49d6-bcad-91e0cf1d12ae
+multiverse_ids:
+- 141959
+mtgo_id: 29323
+mtgo_foil_id: 29324
+tcgplayer_id: 18697
+cardmarket_id: 19288
+name: Madblind Mountain
+lang: en
+released_at: '2008-05-02'
+uri: https://api.scryfall.com/cards/513adae2-6436-4284-9f23-87ef627e81b7
+scryfall_uri: https://scryfall.com/card/shm/274/madblind-mountain?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/1/513adae2-6436-4284-9f23-87ef627e81b7.jpg?1562830130
+  normal: https://cards.scryfall.io/normal/front/5/1/513adae2-6436-4284-9f23-87ef627e81b7.jpg?1562830130
+  large: https://cards.scryfall.io/large/front/5/1/513adae2-6436-4284-9f23-87ef627e81b7.jpg?1562830130
+  png: https://cards.scryfall.io/png/front/5/1/513adae2-6436-4284-9f23-87ef627e81b7.png?1562830130
+  art_crop: https://cards.scryfall.io/art_crop/front/5/1/513adae2-6436-4284-9f23-87ef627e81b7.jpg?1562830130
+  border_crop: https://cards.scryfall.io/border_crop/front/5/1/513adae2-6436-4284-9f23-87ef627e81b7.jpg?1562830130
+mana_cost: ''
+cmc: 0.0
+type_line: Land — Mountain
+oracle_text: |-
+  ({T}: Add {R}.)
+  Madblind Mountain enters the battlefield tapped.
+  {R}, {T}: Shuffle your library. Activate only if you control two or more red permanents.
+colors: []
+color_identity:
+- R
+keywords: []
+produced_mana:
+- R
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c18c0ba1-2081-4808-9b2e-549bc3a666f3
+set: shm
+set_name: Shadowmoor
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/shm?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/513adae2-6436-4284-9f23-87ef627e81b7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0ee0b090-3f1e-49d6-bcad-91e0cf1d12ae&unique=prints
+collector_number: '274'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Fred Fields
+artist_ids:
+- 9c77c81a-3b3f-4e94-a834-327d01cd6b35
+illustration_id: 13993739-92c2-4b23-91d9-af755cd56a75
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 9500
+penny_rank: 10827
+prices:
+  usd: '0.31'
+  usd_foil: '13.87'
+  usd_etched: 
+  eur: '0.14'
+  eur_foil: '0.23'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=141959
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Madblind+Mountain&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Madblind+Mountain&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Madblind+Mountain
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/18697?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Madblind+Mountain&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/29323?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
